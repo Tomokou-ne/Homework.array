@@ -5,7 +5,7 @@ public class Main {
         // Задача 1
         int[] arr = new int[]{1, 2, 3};
         double[] weight = {1.57, 7.654, 9.986};
-        int[] chars = new int[25];
+        int[] chars = new int[]{25, 34, 15, 48, 29, 18};
 
         // Задача 2
         for (int i = 0; i < arr.length; i++) {
